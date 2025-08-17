@@ -25,7 +25,7 @@ A responsive college fest website built with HTML, CSS, and JavaScript featuring
 ![interactive-menu](screenshots/menu.png)
 
 ## Live Demo
-(Deploy on GitHub Pages and paste your link here)
+[(Visit project)](https://arjunvyas2802.github.io/college-fest-events/)
 
 ## Learning
 This project helped me practice:
