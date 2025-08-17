@@ -20,6 +20,9 @@ A responsive college fest website built with HTML, CSS, and JavaScript featuring
 ---
 
 ## Screenshots  
+![Home](./screenshots/Screenshot 2025-08-17 121439.png)
+![event card](./screenshots/Screenshot 2025-08-17 121450.png)
+![interactive menu](./screenshots/Screenshot 2025-08-17 121508.png)
 
 ## Live Demo
 (Deploy on GitHub Pages and paste your link here)
